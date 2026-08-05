@@ -1,0 +1,30 @@
+{
+  "Parkimine": [
+    "park"
+  ],
+  "TV järelevaatamine": [
+    "järel"
+  ],
+  "TV videolaenutus": [
+    "videolaen"
+  ],
+  "IoT": [
+    "värava"
+  ],
+  "Kodune internet": [
+    "koduinternet"
+  ],
+  "Mobiilne internet": [
+    "internet",
+    "andmeside"
+  ],
+  "TV standarpakett": [
+    "standard",
+    "TeliaTV",
+    "digiboks"
+  ],
+  "Kõned": [
+    "kõne",
+    "paketitasu"
+  ]
+}
